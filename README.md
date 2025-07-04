@@ -1,1 +1,23 @@
-# Task-8-Simple-Sales_Dasboard-design
+# Simple-Sales_Dasboard-design
+
+## Objective
+To create a clean and interactive dashboard that visualizes sales performance by product category, region, and month using Power BI.
+
+## Dataset 
+- Superstore_sales.xlsx
+
+## Tools Used
+- Power BI Desktop
+
+## Key Insights
+### 1. Top-Selling Category:
+- Technology tops in sales with 836.15K (36.4%), making it the most profitable category.
+- It is followed by Furniture (742K, 32.3%) and Office Supplies (719.05K, 31.3%).
+### 2. Best-Performing Region:
+- West region has the highest sales among all, with sales close to 800K.
+- It outperforms East, Central, and South, suggesting a strong market presence.
+### 3. Monthly Sales Trend:
+- Sales see a noticeable spike in October and December, with December being the peak month (close to 400K).
+- These spikes might be influenced by seasonal shopping or holiday promotions.
+### 4. Low Performing Region:
+- South region records the lowest sales, indicating a potential need for better marketing, distribution, or local demand analysis.
